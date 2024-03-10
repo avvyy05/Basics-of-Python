@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avani Kashyap</h1>
 <h3 align="center">A coding enthusiast.</h3>
-<img align="right" width=400 alt="coding" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avvyy05&label=Profile%20views&color=0e75b6&style=flat" alt="avvyy05" /> </p>
 
 - 🌱 I’m currently learning **Python and C**
